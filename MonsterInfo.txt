@@ -1,0 +1,52 @@
+Name: Ghost
+No.: 1
+Description: Spirits of the dead that appear before the living.
+
+Name: Witch
+No.: 2
+Description: A person who inhabits magical abilities. Although the word "witch"
+is often used for females, there are also male witches.
+
+Name: Vampire
+No.: 3
+Description: A creature that lives on the vital essence of the living,
+usually blood. They are weak to garlic and stakes, and it is said that a
+vampire cannot enter a house before it is invited in. Vampires usually attack
+by sinking their teeth into the victims and draining them for blood. A vampire's
+bite can also turn another human into a vampire. The most famous vampire
+in fiction is undoubtedly Dracula.
+
+Name: Dragon
+No.: 4
+Description: A huge lizard-like creature with wings that can breathe fire.
+They are often fierce opponents in fairy tales and also usually the main
+antagonist in them.
+
+Name: Werewolf
+No.: 5
+Description: Part man, part wolf. A werewolf is a human with the ability to
+transform into a wolf (or a wolf-like creature standing on two legs). This
+usually happens whenever the full moon rises. It is said that a werewolf can
+turn another human into a werewolf by biting or scratching them.
+
+Name: Zombie
+No.: 6
+Description: Living corpses that seek the living for food. In fiction they
+usually feed on brains, but sometimes they also eat any part of the human body.
+Like the werewolf or vampire, a zombie's bite can also turn other humans into
+zombies.
+
+Name: Siren
+No.: 7
+Description: Dangerous creatures who lure sailors with their enchanting music
+and singing voices to shipwreck on the rocky coast of their island. Sirens
+have been described as having a bird's body, but a woman's head. Other times
+they've been described as beautiful women, both in voice and body. Most sirens
+in art are depicted as women, but there are also male sirens. Their favorite
+instruments are harps and lyres.
+
+Name: Skeleton
+No.: 8
+Description: All humans have skeletons inside them, but these monsters walk
+around without flesh and skin. They are often used as common enemies in
+video games.
